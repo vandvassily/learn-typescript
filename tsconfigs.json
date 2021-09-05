@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "lib": ["es6", "dom"],
+      "allowJs": true,
+      "skipLibCheck": false,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "module": "commonjs",
+      "moduleResolution": "Node",
+      "noImplicitAny": false,
+      "noEmit": true,
+      "jsx": "react"
+    },
+    "include": ["./src/page.ts"]
+  }
+  
